@@ -1,0 +1,175 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The wonder of Suffolk: being a true relation of one that reports he made a league with the devil for three years to do mischief; and now breaks open houses, robs people daily, destroys cattel before the owners faces, strips women naked, &amp;c. and can neither be shot nor taken; but leaps over walls fifteen foot high, runs five or six miles in a quarter of an hour, and sometimes vanishes in the midst of multitudes that go to take him. Faithfully written in a letter from a sober person, dead not long since, to a friend in Ship-yard near Temple-Bar, and ready to be attested by hundreds that have been spectatoes of, or sufferers by his exploits, in several parts of Suffolk. With allowance.</title>
+            <author>W. S.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1677</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 8 KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2012-10">2012-10 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A58822</idno>
+            <idno type="STC">Wing S208</idno>
+            <idno type="STC">ESTC R214745</idno>
+            <idno type="EEBO-CITATION">99826822</idno>
+            <idno type="PROQUEST">99826822</idno>
+            <idno type="VID">31231</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A58822)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 31231)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1770:6)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The wonder of Suffolk: being a true relation of one that reports he made a league with the devil for three years to do mischief; and now breaks open houses, robs people daily, destroys cattel before the owners faces, strips women naked, &amp;c. and can neither be shot nor taken; but leaps over walls fifteen foot high, runs five or six miles in a quarter of an hour, and sometimes vanishes in the midst of multitudes that go to take him. Faithfully written in a letter from a sober person, dead not long since, to a friend in Ship-yard near Temple-Bar, and ready to be attested by hundreds that have been spectatoes of, or sufferers by his exploits, in several parts of Suffolk. With allowance.</title>
+                  <author>W. S.</author>
+               </titleStmt>
+               <extent>8 p.   </extent>
+               <publicationStmt>
+                  <publisher>printed for D.M.,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1677.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Signed at end: W.S.</note>
+                  <note>Reproduction of the original in the Bodleian Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Suffolk (England) --  History --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2012-01</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2012-01</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2012-02</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2012-02</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2012-05</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:31231:1" rendition="simple:additions"/>
+            <p>The WONDER of SUFFOLK: BEING A TRUE RELATION Of one that Reports he Made a League WITH THE DEVIL for Three years to do Miſchief;</p>
+            <p>And now breaks open houſes, robs people daily, deſtroys Cattel before the owners faces, ſtrips women naked, <hi>&amp;c.</hi> and can neither be Shot nor Taken; but leaps over walls fifteen foot high, runs five or ſix miles in a quarter of an hour, and ſometimes va<g ref="char:EOLhyphen"/>niſhes in the midſt of multitudes that go to take him.</p>
+            <p>
+               <hi>Faithfully written in a Letter from a Sober perſon, dated not long ſince, to a friend in</hi> Ship-yard <hi>neer</hi> Temple-Bar, <hi>and ready to be atteſted by hundreds that have been Spectators of, or Sufferers by his Exploits, in ſeveral parts of</hi> Suffolk.</p>
+            <p>With Allowance.</p>
+            <p>
+               <hi>LONDON:</hi> Printed for <hi>D. M.</hi> 1677.</p>
+         </div>
+      </front>
+      <body>
+         <div type="letter">
+            <pb facs="tcp:31231:2"/>
+            <pb n="3" facs="tcp:31231:2"/>
+            <head>A Letter out of <hi>Suffolk.</hi>
+            </head>
+            <opener>
+               <salute>SIR,</salute>
+            </opener>
+            <p>BEing of late, after a tedious Voyage, happily arrived (through the gracious providence of God) at <hi>Harwich;</hi> though I have naturally an averſion to the foolery of Impertinent Complements, yet I ſhould hold my ſelf guilty both of Incivility and Ingratitude, ſhould I not pay my Re<g ref="char:EOLhyphen"/>ſpects to my Friends; amongſt which num<g ref="char:EOLhyphen"/>ber your ſelf muſt ever claim a principal place. As for News, I ſhall not trouble you with any thing Forraign, ſince I have met with an Adventure more ſtrange and ſurpri<g ref="char:EOLhyphen"/>zing ſince my return, than any I encounter'd abroad: which for the rarity of it, I think fit to acquaint you with; ſetting down only the truth of the matter of Fact, as far as poſ<g ref="char:EOLhyphen"/>ſible
+<pb facs="tcp:31231:3"/>my Inquiries and Diſcourſes with the moſt judicious and concerned perſons can in<g ref="char:EOLhyphen"/>form me; who have taken ſome pains (after I heard the vulgar Rumour which is ſpread over all this Country) to be ſatisfied in the reality of the matter, and finde the ſame as follows:</p>
+            <p>A man in <hi>High Suffolk</hi> was ſome months ago put into a Goal for Debt, or ſome miſ<g ref="char:EOLhyphen"/>demeanour by him committed: for he was always a perſon of a very looſe life and Con<g ref="char:EOLhyphen"/>verſation. Whilſt he continued a Priſoner, 'tis reported, that he made a League with the Devil to do what miſchief he pleaſeth for the ſpace of three years, with Impunity, or without any danger of being taken or puni<g ref="char:EOLhyphen"/>ſhed within that Term for the ſame: Which Report is occaſion'd by himſelf, who has ut<g ref="char:EOLhyphen"/>tered words to that purpoſe: for the truth of the thing is impoſſible to be known or proved by any other, ſave what may be col<g ref="char:EOLhyphen"/>lected from the prodigious effects that have ſince happened; which put many ſober per<g ref="char:EOLhyphen"/>ſons to a loſs, whether they ſhould reject or believe it.</p>
+            <pb n="5" facs="tcp:31231:3"/>
+            <p> But certain it is, that about two months a<g ref="char:EOLhyphen"/>go he made his Eſcape out of the Goal, and no body can tell by what way or means, and cannot by all the vigilance or art they can uſe be retaken, though he continue in that Coun<g ref="char:EOLhyphen"/>try, goes openly in the day-time, and often comes neer <hi>Ipſwich</hi> Town; but lives wholly upon Villany, and ſeems to ſtudy Miſchief and doing of ſpoil and damage to other peo<g ref="char:EOLhyphen"/>ple, even though he himſelf get nothing by it: for his Actions are as follows:</p>
+            <p>He commonly breaks into houſes and robs the people; takes Bullocks, and (though they are ſo large as would require ſeveral men to lift them) can all-alone hang them up by the heels, where he takes off their Hides and ſells them to Tanners at remote Towns. He takes away Calves before the Owners faces; and ſometimes, by I know not what Charms and Spells, makes the Calves run af<g ref="char:EOLhyphen"/>ter him, and leap over hedges or ſtyles to fol<g ref="char:EOLhyphen"/>low him.</p>
+            <p>He robs the Spinſters that have received money for their Yarn, and tells them he can tell them before-hand how much money to a
+<pb n="6" facs="tcp:31231:4"/>peny they have got about them. When he meets with women, he ſtrips them naked and ties them to Trees, and uſes other barbarous Incivilities; having, as I was informed by credible perſons, ſerved ſeveral modeſt Ma<g ref="char:EOLhyphen"/>trons and young Maids ſo of late, inſomuch that ſcarce any of that Sex in the Villages where he haunts dare go abroad to Market, or other lawful occaſions.</p>
+            <p>He talks with many people, and asks them whether they have not heard of ſuch a fel<g ref="char:EOLhyphen"/>low: If they ſay no, he certainly robs, beats or ſtrips them, and tells them, now they may honeſtly ſay they have met with him. If they ſay they have heard of him, then he confeſ<g ref="char:EOLhyphen"/>ſeth he is the man; but in ſuch caſe commo<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>
+               <g ref="char:EOLunhyphen"/>ly tells them he will do them no harm, and i<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap> as good as his word. Though his general Reſidence is in the Woods and Fields, yet ſometimes he lies in Ale houſes, but then ſel<g ref="char:EOLhyphen"/>dom diſcovers himſelf till he is going away: he talks there ſtrangely and extravagantly; drinks hard, but pays for whatever he calls for: he has been ſurpriſed in houſes againſt Brick-walls, and places where it was thought
+<pb n="7" facs="tcp:31231:4"/>impoſſible for him to eſcape; yet he has got away, ſometimes vaniſhing out of the houſe where the people had thought they had ſecu<g ref="char:EOLhyphen"/>red him, and ſometimes leaping over Brick<g ref="char:EOLhyphen"/>walls 10 or 15 foot high.</p>
+            <p>When the people have thought they have been neer him, he on a ſudden has appeared as far di<g ref="char:EOLhyphen"/>ſt<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>nt as they could ſee, above a mile off. He has <gap reason="illegible" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> that at ſeveral times, but no Bullet can touch or hurt him: He puts men, women, and Chil<g ref="char:EOLhyphen"/>dren in great fear, and tells the people that ſeek to take him, That he has yet above two years to Reign, and they are fool<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap> 
+               <gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>o trouble themſelves about him in that time; and that juſt before he ſhall be taken to be hang'd (for that he confeſſes is his Deſtiny) he muſt kill ſome Women great with Childe. He is, though formerly a dull hea<g ref="char:EOLhyphen"/>vy clouterly fellow, of late become ſo deviliſh nimble and light of foot, that he commonly runs 5 miles in a quarter of an hour.</p>
+            <p>Having ſome buſineſs in <hi>Suffolk,</hi> I my ſelf lately ſaw and diſcourſed with his own Brother, who with much ſorrow related ſeveral of theſe particulars, and told ſeveral others and my ſelf, That this ſtrange fellow his Brother was then in a Wood neer the Town, and told a Gentleman he might eſcape him in the Road to <hi>Woodbriggs.</hi> We would have gone to ſee him, but the Towns<g ref="char:EOLhyphen"/>people aſſured us that it was ſeldom or never his manner to be ſeen to ſuch as look after him out
+<pb n="8" facs="tcp:31231:5"/>of curioſity; but whereas he falls upon other men that he meets with by accident, and eaſily maſters them though there be ſeveral of them to<g ref="char:EOLhyphen"/>gether, yet of theſe at other times he ſeems to be fearful; and ſo vaniſhes they know not how, or leaps over Quickſet hedges, and comes at them no more. Several other wonderful ſtories I heard affirmed of him, which at preſent I have omitted: For he is the general Talk and Terrour of the Country. What to think of it I know not, but am ſufficiently aſſured and ſatisfi'd of the truth of the matter in general, having heard the ſame atteſted by hundreds that have ſeen the fellow, and thoſe good ſober people whoſe Credit is in no wiſe to be doubted.</p>
+            <closer>
+               <signed>Yours in great haſte to command, <hi>W. S.</hi>
+               </signed>
+               <dateline>Harwich, <date>June 10. 1677.</date>
+               </dateline>
+            </closer>
+         </div>
+         <div type="postscript">
+            <head>Poſtſcript.</head>
+            <p>
+               <hi>YOu may if you pleaſe, ſhew what I have writ to any of your Friends: For though it be a ſtrange, yet it is ſo true a ſtory (as hundreds can witneſs) that conſidering the ſtrangeneſs of it, you will perhaps finde as many Truths in it as ever you did in any Relation of this kinde, conſiſting of particulars ſo very wonderful.</hi>
+            </p>
+            <trailer>FINIS.</trailer>
+            <pb facs="tcp:31231:5"/>
+         </div>
+      </body>
+   </text>
+</TEI>
